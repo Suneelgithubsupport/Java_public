@@ -44,7 +44,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> Second stage check   </h1> </center>   
+    <center> <h1> SUNEEL TOMCAT APPLICATION   </h1> </center>   
     <form>  
         <div class="container">   
             <label>student name : </label>   
