@@ -44,7 +44,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> SUNEEL TOMCAT APPLICATION   </h1> </center>   
+    <center> <h1> A2Z MultiCusaine Restarunt  </h1> </center>   
     <form>  
         <div class="container">   
             <label>student name : </label>   
